@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a very curious and inquisitive bioinformatics scientist with innate desire to continuously learn and improve my skills. I know R and Python programing and have experience working with a variety of next generation sequencing (NGS) data sets, but my main expertise is RNAseq.
+I'm a very curious and inquisitive bioinformatics scientist with innate desire to continuously learn and improve my skills. I am proficient in both R and Python programming languages for data analysis, I have extensive experience in managing a variety of next-generation sequencing (NGS) datasets, with bulk RNA-seq standing as my primary area of expertise. My passion lies particularly in immunogenomics and its profound implications for human health.
 
-🌱 I’m currently learning about machine learning at the Data Science Institute, University of Toronto. 
+🌱 Currently, I am embarking on a journey to explore the field of machine learning more profoundly through dedicated study at the prestigious Data Science Institute of the University of Toronto.
 
-👯 I’m looking to collaborate on scRNA-seq projects.
+👯 Eager to engage in collaborative endeavors, I am actively seeking opportunities to contribute my expertise to single-cell RNA sequencing (scRNA-seq) projects, where my skills and insights can make a meaningful impact.
 
-📫 How to reach me: monicarojasp@gmail.com
+You can reach me via 📧 at monicarojasp@gmail.com
 
 <!--
 **monicarojasp/monicarojasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
