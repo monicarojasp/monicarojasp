@@ -2,7 +2,7 @@
 
 I'm a very curious and inquisitive bioinformatics scientist with innate desire to continuously learn and improve my skills. I am proficient in both R and Python programming languages for data analysis, I have extensive experience in managing a variety of next-generation sequencing (NGS) datasets, with bulk RNA-seq standing as my primary area of expertise. My passion lies particularly in immunogenomics and its profound implications for human health.
 
-🌱 Currently, I am embarking on a journey to explore the field of machine learning more profoundly through dedicated study at the prestigious Data Science Institute of the University of Toronto.
+🌱 Currently, I am embarking on a journey to explore the field of machine learning more profoundly through dedicated study at the prestigious Data Science Institute, University of Toronto.
 
 👯 Eager to engage in collaborative endeavors, I am actively seeking opportunities to contribute my expertise to single-cell RNA sequencing (scRNA-seq) projects, where my skills and insights can make a meaningful impact.
 
