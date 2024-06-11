@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a very curious and inquisitive bioinformatics scientist with innate desire to continuously learn and improve my skills. 🌱 I’m currently learning about machine learning at the Data Science Institute, University of Toronto. 
+I'm a very curious and inquisitive bioinformatics scientist with innate desire to continuously learn and improve my skills. I know R and Python programing and have experience working with a variety of next generation sequencing (NGS) data sets, but my main expertise is RNAseq.
+
+🌱 I’m currently learning about machine learning at the Data Science Institute, University of Toronto. 
 
 👯 I’m looking to collaborate on scRNA-seq projects.
 
