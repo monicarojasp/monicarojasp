@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! 👋
 
 I'm a very curious and inquisitive bioinformatics scientist with innate desire to continuously learn and improve my skills. I am proficient in both R and Python programming languages for data analysis, I have extensive experience in managing a variety of next-generation sequencing (NGS) datasets, with bulk RNA-seq standing as my primary area of expertise. My passion lies particularly in immunogenomics and its profound implications for human health.
 
