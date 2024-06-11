@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a very curious and inquisitive bioinformatics scientist with innate desire to continuously learn and improve my skills. 🌱 I’m currently learning about machine learning at the Data Science Institute, University of Toronto. 
+
+👯 I’m looking to collaborate on scRNA-seq projects.
+
+📫 How to reach me: monicarojasp@gmail.com
+
 <!--
 **monicarojasp/monicarojasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
