@@ -6,7 +6,7 @@ I'm a very curious and inquisitive bioinformatics scientist with innate desire t
 
 🌱 Currently, I am embarking on a journey to explore the field of machine learning more profoundly through dedicated study at the prestigious Data Science Institute, University of Toronto.
 
-👯 Eager to engage in collaborative endeavors, I am actively seeking opportunities to contribute my expertise to single-cell RNA sequencing (scRNA-seq) projects, and spatial tarsncriptomics where my skills and insights can make a meaningful impact.
+👯 Eager to engage in collaborative endeavors, I am actively seeking opportunities to contribute my expertise to single-cell RNA sequencing (scRNA-seq) projects, and spatial tarnscriptomics where my skills and insights can make a meaningful impact.
 
 You can reach me via 📧 at monicarojasp@gmail.com
 
